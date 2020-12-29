@@ -91,11 +91,20 @@ a:hover {
 
 }
 #search-icon {
-	height: 30px;
-	width: 30px;
+	height: 25px;
+	width: 25px;
 	position: relative;
-	top : 5px;
+	top : 7px;
 	left: 40px;
+	color: lightslategray;
+}
+
+#mic-icon {
+	height: 25px;
+	width: 25px;
+	position: relative;
+	top : 7px;
+	right: 40px;
 	color: lightslategray;
 }
 
